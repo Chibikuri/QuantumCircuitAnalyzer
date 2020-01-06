@@ -9,6 +9,7 @@ verify_ssl = true
 qiskit = "*"
 matplotlib = "*"
 tqdm = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
